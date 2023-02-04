@@ -1,0 +1,6 @@
+12:55:02|/index.php?id=log|http://localhost:3000/index.php?id=info
+12:55:05|/index.php?id=info|http://localhost:3000/index.php?id=log
+12:55:07|/index.php?id=about|http://localhost:3000/index.php?id=info
+12:55:08|/index.php?id=contact|http://localhost:3000/index.php?id=about
+12:55:10|/index.php|http://localhost:3000/index.php?id=contact
+12:55:25|/index.php?id=log|http://localhost:3000/index.php?id=log
